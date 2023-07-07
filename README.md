@@ -1,1 +1,1 @@
-# aouth2-github-springboot
+# oAuth2-github-springboot
